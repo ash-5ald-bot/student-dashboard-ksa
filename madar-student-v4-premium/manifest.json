@@ -1,0 +1,12 @@
+{
+  "name": "مدار الطالب - StudentOS KSA",
+  "short_name": "مدار الطالب",
+  "start_url": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "تطبيق تقويم دراسي سعودي احترافي للطلاب",
+  "icons": []
+}
